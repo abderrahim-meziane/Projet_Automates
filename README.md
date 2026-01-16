@@ -6,7 +6,7 @@ Ce projet implémente une bibliothèque Python complète pour la manipulation d'
 L'objectif est de fournir des outils pour construire, transformer et combiner des automates afin d'étudier les langages formels. Le projet utilise une structure modulaire séparant les composants de l'automate (États, Transitions) de la logique algorithmique.
 
 ## ⚙️ Algorithmes Implémentés
-Le fichier principal `Projet_autoamtes.ipynb` contient les implémentations suivantes :
+Le fichier principal `Projet_automates.ipynb` contient les implémentations suivantes :
 
 * **Opérations de base** : Création depuis un fichier texte, complétion d'automates.
 * **Déterminisation** : Passage d'un AFN (Automate Fini Non-déterministe) à un AFD (Déterministe).
